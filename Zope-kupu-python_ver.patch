@@ -1,0 +1,27 @@
+diff -urN kupu.org/common/kupu.cgi kupu/common/kupu.cgi
+--- kupu.org/common/kupu.cgi	2005-05-11 16:29:34.000000000 +0200
++++ kupu/common/kupu.cgi	2005-10-08 17:01:11.548016400 +0200
+@@ -1,4 +1,4 @@
+-#!/usr/bin/python2.3
++#!/usr/bin/python
+ 
+ import os, sys
+ os.chdir(os.path.abspath(os.path.dirname(__file__)))
+diff -urN kupu.org/common/kupu-pox.cgi kupu/common/kupu-pox.cgi
+--- kupu.org/common/kupu-pox.cgi	2005-05-01 15:23:24.000000000 +0200
++++ kupu/common/kupu-pox.cgi	2005-10-08 17:01:07.720598256 +0200
+@@ -1,4 +1,4 @@
+-#!/usr/bin/python2.3
++#!/usr/bin/python
+ 
+ import os, sys
+ os.chdir(os.path.abspath(os.path.dirname(__file__)))
+diff -urN kupu.org/python/nationalizer.py kupu/python/nationalizer.py
+--- kupu.org/python/nationalizer.py	2005-05-03 12:24:30.000000000 +0200
++++ kupu/python/nationalizer.py	2005-10-08 17:01:26.868687304 +0200
+@@ -1,4 +1,4 @@
+-#!/usr/bin/python2.3
++#!/usr/bin/python
+ 
+ """Return the Kupu .html file with i18n applied"""
+ 
