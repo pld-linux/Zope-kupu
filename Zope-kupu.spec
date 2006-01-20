@@ -2,7 +2,7 @@
 Summary:	Kupu - a 'document-centric' open source client-side editor for web browsers
 Summary(pl):	Kupu - edytor kliencki pracuj±cy z popularnymi przegl±darkami WWW
 Name:		Zope-%{zope_subname}
-Version:	1.3.1
+Version:	1.3.3
 Release:	1
 License:	Kupu
 Group:		Development/Tools
