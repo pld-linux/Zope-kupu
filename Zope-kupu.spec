@@ -1,6 +1,6 @@
 %define 	zope_subname	kupu
 Summary:	Kupu - a 'document-centric' open source client-side editor for web browsers
-Summary(pl):	Kupu - edytor kliencki pracuj±cy z popularnymi przegl±darkami WWW
+Summary(pl.UTF-8):   Kupu - edytor kliencki pracujÄ…cy z popularnymi przeglÄ…darkami WWW
 Name:		Zope-%{zope_subname}
 Version:	1.3.3
 Release:	1
@@ -24,8 +24,8 @@ Kupu is a 'document-centric' open source client-side editor for
 Mozilla, Netscape and Internet Explorer. This version of kupu is only
 for Zope.
 
-%description -l pl
-Kupu jest edytorem klienckim pracuj±cym z popularnymi przegl±darkami
+%description -l pl.UTF-8
+Kupu jest edytorem klienckim pracujÄ…cym z popularnymi przeglÄ…darkami
 WWW (Mozilla, Netscape i Internet Explorer). Wersja dla Zope.
 
 %prep
